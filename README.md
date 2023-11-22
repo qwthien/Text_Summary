@@ -4,8 +4,6 @@ docid: đoạn <br>
 num: vị trí câu trong đoạn<br>
 wdcount: tổng số lượng từ có trong câu<br>
 
-'D:/That/NLP/train-20231020T112403Z-001/train/d061j'<br>
- 'D:/That/NLP/train-20231020T112403Z-001/d070f'<br>
 Bước 1: đọc tệp văn bản có định dạng sau: <br>
 	<s docid="AP880911-0016" num="9" wdcount="28"> Hurricane Gilbert swept toward the Dominican Republic Sunday, and the Civil Defense alerted its heavily populated south coast to prepare for high winds, heavy rains and high seas.</s><br>
 Bước 2: tiến hành xử lý văn bản vừa đọc bằng cách lọc danh sách tag chứa từ khóa tag ví dụ như sau:<br>
