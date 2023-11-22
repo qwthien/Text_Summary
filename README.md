@@ -1,5 +1,5 @@
 # Text_Summary
-<s docid="AP880911-0016" num="10" wdcount="17"> The storm was approaching from the southeast with sustained winds of 75 mph gusting to 92 mph.</s>
+/* <s docid="AP880911-0016" num="10" wdcount="17"> The storm was approaching from the southeast with sustained winds of 75 mph gusting to 92 mph.</s>
 docid: đoạn 
 num: vị trí câu trong đoạn
 wdcount: tổng số lượng từ có trong câu
@@ -41,3 +41,4 @@ Bước 5: Sau khi có ma trận, ta tính trọng số của các cạnh.
 	Sử dụng thuật toán pagerank để tính trọng số của chúng.
 Bước 6: Tiến hành sắp xếp các câu theo trọng số từ cao xuống thấp
 Bước 7: thực hiện ghi kết quả trả về và in ra các câu chứa trọng số cao, in toàn bộ câu ban đầu của câu có trọng số cao
+*/
