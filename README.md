@@ -1,11 +1,11 @@
 # Text_Summary
-<s docid="AP880911-0016" num="10" wdcount="17"> The storm was approaching from the southeast with sustained winds of 75 mph gusting to 92 mph.</s> <br>
+ docid="AP880911-0016" num="10" wdcount="17"> The storm was approaching from the southeast with sustained winds of 75 mph gusting to 92 mph.<br>
 docid: đoạn <br>
 num: vị trí câu trong đoạn<br>
 wdcount: tổng số lượng từ có trong câu<br>
 
 Bước 1: đọc tệp văn bản có định dạng sau: <br>
-	<s docid="AP880911-0016" num="9" wdcount="28"> Hurricane Gilbert swept toward the Dominican Republic Sunday, and the Civil Defense alerted its heavily populated south coast to prepare for high winds, heavy rains and high seas.</s><br>
+	 docid="AP880911-0016" num="9" wdcount="28"> Hurricane Gilbert swept toward the Dominican Republic Sunday, and the Civil Defense alerted its heavily populated south coast to prepare for high winds, heavy rains and high seas.<br>
 Bước 2: tiến hành xử lý văn bản vừa đọc bằng cách lọc danh sách tag chứa từ khóa tag ví dụ như sau:<br>
 	def tienxuly(textfile):<br>
 		filter_files = []<br>
